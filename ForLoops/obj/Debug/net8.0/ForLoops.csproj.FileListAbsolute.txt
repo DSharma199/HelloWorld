@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\bin\Debug\net8.0\ForLoops.exe
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\bin\Debug\net8.0\ForLoops.dll
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.dll
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MyFirstProject\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll
